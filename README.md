@@ -33,3 +33,9 @@ This is a simple repo containing some projects that I have worked on over time.
 
 - **[Maze Generation](https://editor.p5js.org/brendandesrosiers26/full/0fSy73ojM)**
   - Self-explanatory. Generates a maze of varying difficulty depending on what the user inputs.
+  - ![image](https://github.com/H0wdyW0R1D/Projects/assets/120529450/e24e1dc3-bea0-4fe9-aa5d-3a2d34179826)
+  - A "simple" *256x256* maze generated using this program.
+
+- **[Maze Solver](https://editor.p5js.org/brendandesrosiers26/full/QwZAYZP1i)**
+  - This program uses A* pathfinding in order to find the shortest path between two points in a grid.
+  - Click the space bar to display the path.
