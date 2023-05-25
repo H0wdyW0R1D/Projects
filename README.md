@@ -12,7 +12,10 @@ This is a simple repo containing some projects that I have worked on over time.
   - A fun project where various objects collide and, depeding on what one would win according to this chart
 
 - **[Apply color palette to image](https://editor.p5js.org/brendandesrosiers26/full/SNX2U-s9U)**
+  - This takes in a list of hex codes (e.g. "#00ff00#ff0da2#000000") and conerts all of the pixels in the given image into the closest color it can find in the palette.
 - **["Emoji-ify" image](https://editor.p5js.org/brendandesrosiers26/full/6OdDkTztR)**
+  - One of my personal favorite projects. This takes in an image and some parameters and converts it into emojis!
+  - ![image](https://github.com/H0wdyW0R1D/Projects/assets/120529450/ce15e3fd-6e91-4ffc-a885-70a16dd76f0e)
 - **[Spanish Hangman Solver](https://editor.p5js.org/brendandesrosiers26/full/RQmDcPjd2)**
 - **[Inverse Kinematics Driven Arm](https://editor.p5js.org/brendandesrosiers26/full/RLcySo2Rq)**
 - **[Maze Generation](https://editor.p5js.org/brendandesrosiers26/full/0fSy73ojM)**
