@@ -16,6 +16,7 @@ This is a simple repo containing some projects that I have worked on over time.
 - **[Apply color palette to image](https://editor.p5js.org/brendandesrosiers26/full/SNX2U-s9U)**
   - This takes in a list of hex codes (e.g. "#00ff00#ff0da2#000000") and conerts all of the pixels in the given image into the closest color it can find in the palette.
   - ![image](https://github.com/H0wdyW0R1D/Projects/assets/120529450/6311076e-7be0-45bc-ba06-f5118f15e450)
+  - This image only uses 16 colors!
 
 - **["Emoji-ify" image](https://editor.p5js.org/brendandesrosiers26/full/6OdDkTztR)**
   - One of my personal favorite projects. This takes in an image and some parameters and converts it into emojis!
