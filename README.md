@@ -1,7 +1,7 @@
-# Projects
+# **Projects**
 This is a simple repo containing some projects that I have worked on over time.
 
-**Javascript Projects:**
+## **Javascript Projects:**
   I have made many programs using the p5js framework over the past couple of years. It is very usful as it stores everything on the cloud, allowing for me to work on projects from anywhere, has built in libraries for displaying objects to the screen, and makes it very easy for me to share these projects.
   Some of these I have listed below with a breif description of each. Keep in mind, some of these may be works in progress.
 
