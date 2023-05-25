@@ -3,7 +3,7 @@
 - This is a simple repo containing some projects that I have worked on over time.  
 - Begining in third grade when my teacher introduced us through block-coding, I found a great creative outlet: ***CODING***  
 - I began making projects in scratch because I enjoyed it.  
-- When I decided I needed to challenge myself more, I moved on to more proffesional coding languages. Starting with Javascript, my understnding of code grew.  
+- When I decided I needed to challenge myself more, I moved on to more professional coding languages. Starting with Javascript, my understanding of code grew.  
 - More recently, I have begun learning other coding languages such as Python, Java, and C#.
 
 # **Coding Projects:**
