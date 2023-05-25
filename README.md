@@ -1,7 +1,13 @@
-# **Projects**
-This is a simple repo containing some projects that I have worked on over time.
+# **Overview**
 
-## **Javascript Projects:**
+This is a simple repo containing some projects that I have worked on over time.
+Begining in third grade when my teacher introduced us through block-coding, I found a great creative outlet: coding.
+I began making projects in scratch because I enjoyed it.
+When I decided I needed to challenge myself more, I moved on to more proffesional coding languages. Starting with Javascript, my understnding of code grew.
+More recently, I have begun learning other coding languages such as Python, Java, and C#.
+
+# **Coding Projects:**
+
   I have made many programs using the p5js framework over the past couple of years. It is very usful as it stores everything on the cloud, allowing for me to work on projects from anywhere, has built in libraries for displaying objects to the screen, and makes it very easy for me to share these projects.
   Some of these I have listed below with a breif description of each. Keep in mind, some of these may be works in progress.
 
