@@ -16,6 +16,12 @@ This is a simple repo containing some projects that I have worked on over time.
 - **["Emoji-ify" image](https://editor.p5js.org/brendandesrosiers26/full/6OdDkTztR)**
   - One of my personal favorite projects. This takes in an image and some parameters and converts it into emojis!
   - ![image](https://github.com/H0wdyW0R1D/Projects/assets/120529450/ce15e3fd-6e91-4ffc-a885-70a16dd76f0e)
+  - Here is a grouo photo of FRC Team 5112, the Gongoliers processed using this program.
 - **[Spanish Hangman Solver](https://editor.p5js.org/brendandesrosiers26/full/RQmDcPjd2)**
+  - This project is an adaptation of my English hangman solver. Passing in the information that you know about the word that is being guessed, it will return the best letter to guess (uses a safe tactic; does not take risks).
+  - Input the letters that are known to be in the word, using underscores as blank letters (letters must be lowercase and include accent marks).
+  - Letters known to not be in the word are put in the "No es" box (again, all lowercase including accent marks).
 - **[Inverse Kinematics Driven Arm](https://editor.p5js.org/brendandesrosiers26/full/RLcySo2Rq)**
+  - A simple project that uses simple trigometric functions to interpolate a two-segment robotic are from one point to another.
 - **[Maze Generation](https://editor.p5js.org/brendandesrosiers26/full/0fSy73ojM)**
+  - Self-explanatory. Generates a maze of varying difficulty depending on what the user inputs.
