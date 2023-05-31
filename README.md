@@ -12,6 +12,7 @@
   Some of these I have listed below with a breif description of each. Keep in mind, some of these may be works in progress.
 
 - **[Floyd-Steinberg Dittering](https://editor.p5js.org/brendandesrosiers26/full/amOFDveVF)**
+  - [Optimized version here](https://editor.p5js.org/brendandesrosiers26/full/-LW51DwP4)
   - My most recent project, uses an algorithm known as Floyd-Steinberg Dithering to reduce the number of colors nessesary to create an image. Here is the Wikipedia page on how this works: [https://en.wikipedia.org/wiki/Floyd%E2%80%93Steinberg_dithering](url)
   - ![image](https://github.com/H0wdyW0R1D/Projects/assets/120529450/b4df71ad-2926-41e8-bec4-f475ba1568da)
   
