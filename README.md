@@ -2,11 +2,9 @@
 
 - This is a simple repo containing some projects that I have worked on over time.  
 
-- Recently, I have begun learning other coding languages such as Python, Java, and C#.
-
 # **Coding Projects:**
 
-  I have made many programs using the p5js framework over the past couple of years. It is very usful as it stores everything on the cloud, allowing for me to work on projects from anywhere, has built in libraries for displaying objects to the screen, and makes it very easy for me to share these projects.
+  I have made many programs using the p5js framework over the past couple of years. It is very usful as it stores everything on the cloud, allowing for me to work on projects from anywhere, has built in libraries for rendering objects to the screen, and makes it very easy for me to share these projects.
   Some of these I have listed below with a breif description of each. Keep in mind, some of these may be works in progress.
 - **[Connect-4 minimax](https://editor.p5js.org/brendandesrosiers26/full/te65MH6LA)**
   - This project uses a wellknown algorithm known as minimax in order to find the best move to play in connect four. Because the computer is only give 100ms to search, it can only search to a depth of about 6 moves, meaning you can still beat it quite easily.
