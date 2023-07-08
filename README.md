@@ -8,10 +8,13 @@
 
   I have made many programs using the p5js framework over the past couple of years. It is very usful as it stores everything on the cloud, allowing for me to work on projects from anywhere, has built in libraries for displaying objects to the screen, and makes it very easy for me to share these projects.
   Some of these I have listed below with a breif description of each. Keep in mind, some of these may be works in progress.
+- **[Connect-4 minimax](https://editor.p5js.org/brendandesrosiers26/full/te65MH6LA)**
+  - This project uses a wellknown algorithm known as minimax in order to find the best move to play in connect four. Because the computer is only give 100ms to search, it can only search to a depth of about 6 moves, meaning you can still beat it quite easily.
+  - ![image](https://github.com/H0wdyW0R1D/Projects/assets/120529450/5071d456-1cfd-4dab-98b6-acede3656701)
 
 - **[Floyd-Steinberg Dittering](https://editor.p5js.org/brendandesrosiers26/full/amOFDveVF)**
   - [Optimized version here](https://editor.p5js.org/brendandesrosiers26/full/-LW51DwP4)
-  - My most recent project, uses an algorithm known as Floyd-Steinberg Dithering to reduce the number of colors nessesary to create an image. Here is the Wikipedia page on how this works: [https://en.wikipedia.org/wiki/Floyd%E2%80%93Steinberg_dithering](url)
+  - One of myfavorite projects, uses an algorithm known as Floyd-Steinberg Dithering to reduce the number of colors nessesary to create an image. Here is the Wikipedia page on how this works: [https://en.wikipedia.org/wiki/Floyd%E2%80%93Steinberg_dithering](url)
   - ![image](https://github.com/H0wdyW0R1D/Projects/assets/120529450/b4df71ad-2926-41e8-bec4-f475ba1568da)
   
 - **[Ultimate Rock-Paper-Scissors](https://editor.p5js.org/brendandesrosiers26/full/P5iHhysxI)**
