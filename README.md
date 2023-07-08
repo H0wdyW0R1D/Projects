@@ -18,7 +18,7 @@
   - ![image](https://github.com/H0wdyW0R1D/Projects/assets/120529450/b4df71ad-2926-41e8-bec4-f475ba1568da)
   
 - **[Ultimate Rock-Paper-Scissors](https://editor.p5js.org/brendandesrosiers26/full/P5iHhysxI)**
-  - A fun project where various objects collide and, depeding on what one would win according to this chart
+  - A fun project where various objects collide and, depeding on what one would win according to this chart, will eventually succumb to one true victor.
   - ![Ultimate RPS](https://github.com/H0wdyW0R1D/Projects/assets/120529450/3612840b-a974-4b6f-81ef-78771621aef7)
 
 - **[Apply color palette to image](https://editor.p5js.org/brendandesrosiers26/full/SNX2U-s9U)**
